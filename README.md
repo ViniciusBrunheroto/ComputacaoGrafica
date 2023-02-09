@@ -29,7 +29,6 @@ exemplos dos resultados gerados. SUGESTÃO: Combinar a solução pensada em (1) 
 
 --------------------------Atividade 2: Preenchimento de polígonos-------------------------------------------------
 
-
 1. Estenda o código em Python criando um método que recebe uma tabela de arestas ativas (AET) 
 de uma determinada linha de varredura e retorna uma lista com as paridades em cada aresta. 
 Por exemplo, para o polígono do exemplo de aula, e a AET correspondente à linha de varredura y = 8, 
@@ -45,6 +44,7 @@ composto de valores 0 e 1 que definem a hachura a ser desenhada. Faça 3 exemplo
 
 
 --------------------------Atividade 4: Objetos 3D-------------------------------------------------
+
 Q1. Adicionar um método generateNormalVector na classe Polygon
 
 Q2. Crie uma classe Object 3D (herdando de Primitive), formado por um conjunto de planos (possui lista de faces poligonais).
